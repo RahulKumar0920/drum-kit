@@ -12,10 +12,10 @@ S: Tom3 \
 D: Tom4 \
 J: Snare \
 K: Crash \
-L: Kick-bass \
+L: Kick-bass 
 
 • Error Handling: If a user presses a wrong button, the application alerts them with a message indicating "Wrong button," ensuring a smooth user experience.
 
-• Responsive Design: The Drum Kit project is designed to be responsive, allowing users to enjoy the drumming experience across various devices and screen sizes.
+• Responsive Design: The Drum Kit project is designed to be responsive, allowing users to enjoy the drumming experience across various devices and screen sizes. \
 
 * Whether you're a beginner drummer looking to practice rhythm or simply want to have fun making beats, the Drum Kit project offers an engaging and entertaining web-based drumming experience. *
